@@ -1,4 +1,7 @@
 # GIS_Hackathon
+> 지역 특화산업 연계 실용적 AI 웹서비스 제작
+
+2021년 10월 12일 ~ 10월 13일까지 진행되는 무박 2일 온라인 끝장개발대회
 
 Team : 참새의방앗GAN
 
@@ -10,10 +13,12 @@ WEB: 김현우(backend), 정현경(frontend)
 
 Model: 곽수연, 곽희원
 
+[최종 공모안](submission.pdf)
 
----
+## Modeling
+* First-Order-Motion-Model
 
-## WE WON THE 1ST PRIZE AT THE HACKATON
+## 39팀 중 최종 1위 수상
 
 ![해커톤수상팀명단](https://user-images.githubusercontent.com/81952911/137890117-36bb48c9-6666-4941-959f-9bdc1f5308b8.png)
 
